@@ -9,7 +9,7 @@ Propietario Ruben Garrido Valverde
 *Este texto estará en cursiva* 
 > Lo interesante de markdown es lo poco que tenemos que memorizar de palabras reservadas y sin embargo es prácticamente igual que HTML
 
-
+[^1^]
 Lista de pasos a seguir en un proyecto [^1]
 1. Crearlo
 2. Desarrollarlo
@@ -56,7 +56,7 @@ Tareas a realizar
 
 
 I need to highlight these <mark>very important words</mark>
-
+[^1] Pie de pagina
 <dl>
   <dt><mark>Término 1</mark></dt>
   <dd>Definición del término 1.</dd>
